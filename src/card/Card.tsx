@@ -34,10 +34,11 @@ const StyledCard = styled.div`
     box-shadow: 0 4px 20px 5px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;
-    
     height: 100%;
     width: 300px;
     padding: 10px;
+    font-family: Inter, sans-serif;
+    
 `
 const Image = styled.img`
     
@@ -45,19 +46,21 @@ const Image = styled.img`
     width: 100%;
 `
 const Headline = styled.h2`
+    
     font-weight: 700;
     font-size: 16px;
     color: black;
     margin: 20px 0px 20px 0px;
+    font-style: normal;
 `
 
 const Text = styled.p`
-    font-family: Inter, sans-serif;
+    
     font-size: 12px;
     line-height: 167%;
     color: #abb3ba;
     margin-bottom: 20px;
-    font-weight: 500;
+    font-weight: 400;
 `
 
 const ButtonWrapper = styled.div`
