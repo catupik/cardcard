@@ -2,7 +2,7 @@
   "name": "cardcard",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://catupik.github.io/cardcard",
+  "homepage": "https://catupik.github.io/cardcard/",
   "type": "module",
   "scripts": {
     "dev": "vite",
